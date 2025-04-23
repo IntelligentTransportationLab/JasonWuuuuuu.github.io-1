@@ -19,5 +19,12 @@
     "imageSrc": "images/trans.png",
     "conference": "Scientific reports",
     "pdfLink": "paper/sr.pdf"
-  }
+  },
+  {
+    "title": "Fire and Smoke Detection Based on Improved YOLOv11",
+    "author": "Xue, Z.; Kong, L.; Wu, H.; Chen, J.",
+    "imageSrc": "images/fire.png",
+    "conference": "IEEE Access",
+    "pdfLink": "paper/fire.pdf"
+  }  
 ]
